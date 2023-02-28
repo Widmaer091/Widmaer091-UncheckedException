@@ -15,5 +15,8 @@ public class Lab {
      */
     public void throwUncheckedException(){
 
+        int[] array = new int[-5];
+
+
     }
 }
